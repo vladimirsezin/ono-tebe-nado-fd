@@ -158,6 +158,7 @@
   flex-direction: row;
   justify-content: space-between;
   margin-top: 27px;
+  padding-bottom: 40px;
 }
 .lots_card-list-item {
   all: unset;
@@ -211,6 +212,7 @@
   padding-top: 55px;
   padding-left: 40px;
   margin-top: auto;
+  margin-bottom;
   font-size: 20px;
   text-transform: lowercase;
   text-decoration: underline;
@@ -226,7 +228,7 @@
   width: 100%;
   grid-template-columns: 334px auto;
   align-items: start;
-  margin-top: 100px;
+  margin-top: 20px;
 }
 .about_column {
   display: flex;
@@ -272,6 +274,7 @@
   padding-left: 50px;
   padding-right: 50px;
   margin-top: 190px;
+  margin-bottom:100px;
 }
 
 .footer__menu {
