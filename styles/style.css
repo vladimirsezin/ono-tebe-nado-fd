@@ -12,7 +12,7 @@ html {
     max-width: 1100px;
     min-height: 293px;
     padding-right:50px;
-    padding-left:50px; 
+    padding-left:50px;
     border: 1px solid #000000;
 }
 .header__links-list {
@@ -240,7 +240,7 @@ main {
     margin-left:70px;
 }
 .about_logo-image {
-    background-image: url("../images/logo-white.svg");
+    background-image: url();
     background-size: contain;
     background-repeat:no-repeat;
     width:148px;
