@@ -1,5 +1,5 @@
-
-html{
+﻿
+html {
     overflow-x: hidden;
 }
 .header {
@@ -166,7 +166,7 @@ main {
 
 }
 .lots_heading {
-    margin-top:170px;
+    margin-top:180px;
     position:relative;
     padding-left:55px;
     font-size: 40px;
@@ -358,8 +358,7 @@ main {
     font-size:18px;
 }
 
-.footer__menu-list-item {
-    
+.footer__menu-list-item {    
     align-items: center;
     list-style-type: none;
     text-decoration: underline;
